@@ -1,2 +1,2 @@
 # MooringLineFix
-Fix the mooring line detached after you come back to your other ship bug
+Fix the moored ship detached itself after loading bug
